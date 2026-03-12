@@ -344,10 +344,9 @@ function ContactPage() {
                 Service Needed
                 <select defaultValue="">
                   <option value="" disabled>Select a service</option>
-                  <option>Structural demolition</option>
-                  <option>Interior / selective demolition</option>
-                  <option>Site preparation</option>
-                  <option>Debris removal & disposal</option>
+                  <option>Mechanical Systems</option>
+                  <option>Retrofits & Upgrades</option>
+                  <option>Maintenance & System Support</option>
                 </select>
               </label>
             </div>
