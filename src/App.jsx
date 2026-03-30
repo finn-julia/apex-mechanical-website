@@ -312,7 +312,7 @@ function ContactPage() {
             <div className="contact-list">
               <div>
                 <h4>Phone</h4>
-                <p>(786) 558-1120</p>
+                <p>(917) 410-5133</p>
               </div>
               <div>
                 <h4>Email</h4>
@@ -481,7 +481,7 @@ function App() {
     <div className="footer-contact">
       <h4>Get In Touch</h4>
       <div className="footer-links">
-        <a href="tel:5550000000">(786) 558-1120</a>
+        <a href="tel:5550000000">(917) 410-5133</a>
         <NavLink className="button button-primary footer-button" to="/contact">
           Request a Bid
         </NavLink>
